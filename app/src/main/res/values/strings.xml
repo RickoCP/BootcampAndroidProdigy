@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Ricko Caesar Putra</string>
+    <string name="yellow_star">yellow_star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ipsum dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Quis ipsum suspendisse ultrices gravida dictum fusce. Eu non diam phasellus vestibulum lorem sed risus ultricies tristique. Pretium fusce id velit ut tortor. At quis risus sed vulputate odio ut. Nec feugiat nisl pretium fusce. Pulvinar mattis nunc sed blandit libero volutpat. Condimentum lacinia quis vel eros donec. Turpis egestas integer eget aliquet nibh praesent. Egestas maecenas pharetra convallis posuere morbi leo urna.
+
+Aliquam faucibus purus in massa tempor nec feugiat. Risus quis varius quam quisque id. A lacus vestibulum sed arcu non odio euismod lacinia. Magna etiam tempor orci eu. Sit amet purus gravida quis blandit. Aenean pharetra magna ac placerat vestibulum lectus. Ac turpis egestas maecenas pharetra. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae proin. Mattis molestie a iaculis at erat pellentesque adipiscing. Faucibus nisl tincidunt eget nullam. Turpis egestas integer eget aliquet nibh praesent. Ipsum dolor sit amet consectetur. Pharetra pharetra massa massa ultricies mi quis hendrerit. Pellentesque habitant morbi tristique senectus et. Ultrices vitae auctor eu augue. Dui sapien eget mi proin sed libero enim. Id volutpat lacus laoreet non curabitur. Enim sit amet venenatis urna cursus eget nunc scelerisque.
+
+Velit euismod in pellentesque massa placerat duis. Pulvinar mattis nunc sed blandit. Phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Augue interdum velit euismod in pellentesque massa. Nulla aliquet porttitor lacus luctus accumsan tortor posuere ac ut. Etiam erat velit scelerisque in dictum non consectetur a erat. Id donec ultrices tincidunt arcu non sodales. Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque. Et malesuada fames ac turpis egestas. Fringilla ut morbi tincidunt augue interdum velit euismod in. Malesuada bibendum arcu vitae elementum curabitur vitae. Tellus elementum sagittis vitae et leo. Neque aliquam vestibulum morbi blandit cursus risus at ultrices mi. Elit eget gravida cum sociis natoque penatibus et magnis.
+
+Felis eget nunc lobortis mattis aliquam faucibus purus in massa. Consequat id porta nibh venenatis cras. Habitant morbi tristique senectus et. Scelerisque fermentum dui faucibus in ornare. Lacus suspendisse faucibus interdum posuere lorem. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Pulvinar sapien et ligula ullamcorper malesuada. Rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. Eu nisl nunc mi ipsum. Ultricies tristique nulla aliquet enim.
+
+Libero volutpat sed cras ornare. Adipiscing elit pellentesque habitant morbi tristique senectus. Nulla posuere sollicitudin aliquam ultrices. Pellentesque habitant morbi tristique senectus et netus. Nec ullamcorper sit amet risus nullam eget felis eget. Non sodales neque sodales ut etiam sit amet nisl purus. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt. Sed turpis tincidunt id aliquet. Odio euismod lacinia at quis risus sed vulputate. Senectus et netus et malesuada fames. Volutpat lacus laoreet non curabitur. Nibh tellus molestie nunc non blandit massa enim nec dui. Tortor condimentum lacinia quis vel eros donec ac. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Id porta nibh venenatis cras sed felis eget velit. Aliquam faucibus purus in massa tempor nec feugiat nisl pretium.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+    <string name="btnB">Activity B</string>
+    <string name="btnC">Activity C</string>
+    <string name="activity_a">Activity A</string>
+    <string name="activity_c">Activity C</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="fragment_to_fragment">Fragment to Fragment</string>
+    <string name="activity_to_activity">Activity to Activity</string>
+    <string name="about_me">About Me</string>
+    <string name="back_to_home">Home</string>
+</resources>
